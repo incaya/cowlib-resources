@@ -6,6 +6,7 @@ Une badgeuse ouverte pour les tiers-lieux.
 
 - 1 fichier *.SKP pour Sketchup Make 2017
 - 2 fichiers *.STL (modèle debout, ou couché _prêt à imprimer_)
+- 1 fichier *.SVG de la plaque arrière de fixation, pour Inkscape
 
 ## Electronique
 
